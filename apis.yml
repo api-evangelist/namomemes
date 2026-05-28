@@ -1,0 +1,32 @@
+aid: namomemes
+name: NaMoMemes
+description: "Memes on Narendra Modi"
+url: https://github.com/theIYD/NaMoMemes
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Entertainment"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Entertainment
+  - Public APIs
+apis:
+  - name: NaMoMemes
+    description: "Memes on Narendra Modi"
+    humanURL: https://github.com/theIYD/NaMoMemes
+    baseURL: https://github.com/theIYD/NaMoMemes
+    tags:
+      - Entertainment
+    properties:
+      - type: Documentation
+        url: https://github.com/theIYD/NaMoMemes
+common:
+  - type: Website
+    url: https://github.com/theIYD/NaMoMemes
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
