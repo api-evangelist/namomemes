@@ -39,7 +39,6 @@ apis:
   - name: NaMoMemes
     description: "Memes on Narendra Modi"
     humanURL: https://github.com/theIYD/NaMoMemes
-    baseURL: https://github.com/theIYD/NaMoMemes
     tags:
       - Entertainment
     properties:
